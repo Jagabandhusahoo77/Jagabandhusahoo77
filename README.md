@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- ⚡ Fun fact **Travelling the world with no money**
+- ⚡ Fun fact **I've trekked to Kedarnath at high altitude and ridden a hydrocycle in the Bay of Bengal!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,9 +20,4 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/></a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/></a>
-  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Actions-icon.png" alt="github-action" width="40" height="40"/></a>
-  <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo-cd" width="40" height="40"/></a>
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/></a>
-</p>
+  <a href="https://www.npmjs.com/" target="
