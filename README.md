@@ -22,7 +22,7 @@
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/></a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/></a>
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Actions-icon.svg" alt="github-action" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Actions-icon.png" alt="github-action" width="40" height="40"/></a>
   <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo-cd" width="40" height="40"/></a>
   <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/></a>
 </p>
