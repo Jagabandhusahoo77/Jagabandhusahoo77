@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jagabandhu Sahoo</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - ⚡ Fun fact **I've trekked to Kedarnath at high altitude and ridden a hydrocycle in the Bay of Bengal!**
 
